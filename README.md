@@ -2,6 +2,10 @@
 
 A simple React chatbot built with Vite and TypeScript. The application allows users to send messages and receive chatbot responses in a clean chat interface while persisting conversations using the browser's local storage.
 
+### Chat Interface
+
+![Chat Interface](chatbot-project.jpeg)
+
 ---
 
 ## Features

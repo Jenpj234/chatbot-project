@@ -4,7 +4,7 @@ A simple React chatbot built with Vite and TypeScript. The application allows us
 
 ### Chat Interface
 
-![Chat Interface](chatbot-project.jpeg)
+![Chat Interface](screenshots/chatbot-project.jpeg)
 
 ---
 
